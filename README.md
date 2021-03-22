@@ -1,4 +1,4 @@
-# oj_java
+# 王道机试指南部分题目
 
 题库来自 https://github.com/zguolee/WDAlgorithmsNote
 
